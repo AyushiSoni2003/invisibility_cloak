@@ -66,7 +66,6 @@ Press `q` to quit the program.
 
 * Multi-color cloak support
 * Glowing outlines for the cloak
-* Floating hand effect (like Wednesday’s Thing)
 * Adding AR filters and magical effects
 
 ---
@@ -77,6 +76,3 @@ This project is open-source under the **MIT License**. Feel free to use and modi
 
 ---
 
-## Author
-
-Ayushi Soni – [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ayushi-soni-a8b8b1314/)) | [GitHub]([https://github.com/YOUR-USERNAME](https://github.com/AyushiSoni2003))
